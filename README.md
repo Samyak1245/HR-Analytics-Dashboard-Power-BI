@@ -27,7 +27,3 @@ The dashboard includes KPIs for employee count, attrition rate, average age, ave
 ## 📂 Project Preview
 
 ![HR Analytics Dashboard](Images/dashboard.png)
-
-## 👨‍💻 Author
-
-**Samyak Pusate**
