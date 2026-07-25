@@ -2,6 +2,11 @@
 
 An interactive **HR Analytics Dashboard** built using **Microsoft Power BI** to analyze employee attrition, workforce demographics, and key HR metrics. The dashboard helps identify trends and supports data-driven HR decision-making.
 
+## 📁 Dataset Information
+
+- Total Records: 1,481
+- Total Features (Columns): 38
+
 ## 🚀 Features
 
 - Employee Count
@@ -24,6 +29,8 @@ The dashboard includes KPIs for employee count, attrition rate, average age, ave
   - DAX
   - Data Modeling
 
-## 📂 Project Preview
+## 📂 Dashboard Preview
 
 ![HR Analytics Dashboard](Images/dashboard.png)
+
+
